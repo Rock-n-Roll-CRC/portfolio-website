@@ -93,7 +93,7 @@ export default function HomepageNav() {
           </div>
 
           <a
-            href="/Danil_Dikhtyar-Resume-2025-Frontend_Developer.pdf"
+            href="/Danil_Dikhtyar-Resume-2026-Frontend_Developer.pdf"
             target="_blank"
             className={`${styles["homepage-nav__cta"] ?? ""} ${styles["homepage-nav__cta--secondary"] ?? ""}`}
           >

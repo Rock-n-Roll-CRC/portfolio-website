@@ -54,7 +54,7 @@ export default function Footer() {
               </div>
 
               <a
-                href="/Danil_Dikhtyar-Resume-2025-Frontend_Developer.pdf"
+                href="/Danil_Dikhtyar-Resume-2026-Frontend_Developer.pdf"
                 target="_blank"
                 className={`${styles["footer__cta-button"] ?? ""}  ${styles["footer__cta-button--secondary"] ?? ""}`}
               >
@@ -110,7 +110,7 @@ export default function Footer() {
           </div>
 
           <p className={styles["footer__copyright"]}>
-            &copy; 2025 All rights reserved. <br />
+            &copy; {new Date().getFullYear()} All rights reserved. <br />
             Built and designed by Danil Dikhtyar.
           </p>
         </div>
