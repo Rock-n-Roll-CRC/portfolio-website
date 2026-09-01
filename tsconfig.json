@@ -48,6 +48,7 @@
 
   "include": [
     "svgr.d.ts",
+    "env.d.ts",
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
